@@ -1,0 +1,15 @@
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\bin\Debug\net7.0\NumericAndListPatterns.exe
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\bin\Debug\net7.0\NumericAndListPatterns.deps.json
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\bin\Debug\net7.0\NumericAndListPatterns.runtimeconfig.json
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\bin\Debug\net7.0\NumericAndListPatterns.dll
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\bin\Debug\net7.0\NumericAndListPatterns.pdb
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.csproj.AssemblyReference.cache
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.AssemblyInfoInputs.cache
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.AssemblyInfo.cs
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.csproj.CoreCompileInputs.cache
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.dll
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\refint\NumericAndListPatterns.dll
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.pdb
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\NumericAndListPatterns.genruntimeconfig.cache
+D:\ConsoleApplication\NumericAndListPatterns\NumericAndListPatterns\obj\Debug\net7.0\ref\NumericAndListPatterns.dll
